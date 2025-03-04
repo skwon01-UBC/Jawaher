@@ -24,8 +24,6 @@
   <a href='#'><img src='https://img.shields.io/badge/Publication-NAACL 2025-yellow'></a>
 </p>
 
-      :fire: Details will be released. Stay tuned :beers: :+1:
-
 </div>
 
 ## Updates
