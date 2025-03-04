@@ -5,15 +5,17 @@
   Jawaher: A Multidialectal Dataset of Arabic Proverbs for LLM Benchmarking
 </h2>
 
-<div>
-  <!-- Optionally, add team or contributor links here -->
-  <!-- For example:
   <div>
-      <a href="https://your-institution.edu/team" target="_blank">Your Name</a>,
-      <a href="https://your-institution.edu/team" target="_blank">Collaborator Name</a>
+    <div>
+      <a href="https://your-institution.edu/team" target="_blank">Samar M. Magdy</a>,
+      <a href="https://skwon01-ubc.github.io/website/" target="_blank">Sang Yun Kwon</a>,
+      <a href="https://your-institution.edu/team" target="_blank">Fakhraddin Alwajih</a>,
+      <a href="https://your-institution.edu/team" target="_blank">Safaa Abdelfadil</a>,
+      <a href="https://your-institution.edu/team" target="_blank">Shady Shehata</a>,
+      <a href="https://mageed.arts.ubc.ca/" target="_blank">Muhammad Abdul-Mageed</a>
+    </div>
+    The University of British Columbia, MBZUAI, Invertible AI<br>
   </div>
-  -->
-  Your Institution or Affiliation<br>
 </div>
 
 <p align="center">
