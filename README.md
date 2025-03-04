@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href='https://arxiv.org/abs/2503.00231'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-  <a href='#'><img src='https://img.shields.io/badge/Dataset-HuggingFace-blue'></a>
+  <a href='https://huggingface.co/datasets/UBC-NLP/Jawaher-benchmark'><img src='https://img.shields.io/badge/Dataset-HuggingFace-blue'></a>
   <a href='#'><img src='https://img.shields.io/badge/Publication-Conference-orange'></a>
 </p>
 
