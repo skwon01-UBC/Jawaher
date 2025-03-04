@@ -1,1 +1,4 @@
-<img src="assets/Jawaher_Logo.png" alt="Jawaher Logo" style="width:150px; margin-right:10px; vertical-align:middle;"/># Jawaher: A Multidialectal Dataset of Arabic Proverbs for LLM Benchmarking<br>
+<h2 class="papername">
+  <img src="./assets/Jawaher_Logo.png" style="vertical-align: -10px;" height="70px" width="70px">
+  Jawaher: A Multidialectal Dataset of Arabic Proverbs for LLM Benchmarking
+</h2>
