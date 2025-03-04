@@ -18,8 +18,8 @@
 
 <p align="center">
   <a href='https://arxiv.org/abs/2503.00231'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-  <a href='https://huggingface.co/datasets/UBC-NLP/Jawaher-benchmark'><img src='https://img.shields.io/badge/Dataset-HuggingFace-blue'></a>
-  <a href='#'><img src='https://img.shields.io/badge/Publication-NAACL 2025-orange'></a>
+  <a href='https://huggingface.co/datasets/UBC-NLP/Jawaher-benchmark'><img src='https://img.shields.io/badge/Dataset-HuggingFace-green'></a>
+  <a href='#'><img src='https://img.shields.io/badge/Publication-NAACL 2025-yellow'></a>
 </p>
 
 :fire: Details will be released. Stay tuned :beers: :+1:
