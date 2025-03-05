@@ -36,6 +36,7 @@ Recent advancements in instruction fine-tuning, alignment methods such as reinfo
 
 ## Jawaher Benchmark
 Jawaher consists of Arabic proverbs paired with their idiomatic or literal English translations, along with explanations in both Arabic and English, covering 20 different Arabic varieties. Below are some examples from the Jawaher benchmark, specifically from Algeria, Bahrain, Egypt, Iraq, and Jordan.
+![Data Examples](assets/Data_Examples.png)
 
 
 
