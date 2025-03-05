@@ -41,6 +41,13 @@ Jawaher consists of Arabic proverbs paired with their idiomatic or literal Engli
 ## Evaluation on Jawaher
 We evaluate Jawaher using both open- and closed-source state-of-the-art multilingual LLMs (mLLMs) to assess their abilities across our proposed tasks. The models are tested in a zero-shot setting.
 
+<div align="center">
+  <img src="assets/En_Translation_Results.png" alt="English Translation Results" width="30%" style="margin: 5px;">
+  <img src="assets/En_Explanation_Results.png" alt="English Explanation Results" width="30%" style="margin: 5px;">
+  <img src="assets/Ar_Explanation_Results.png" alt="Arabic Explanation Results" width="30%" style="margin: 5px;">
+</div>
+
+
 
 
 ## Citation
