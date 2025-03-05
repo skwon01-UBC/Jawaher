@@ -43,7 +43,7 @@ We evaluate Jawaher using both open- and closed-source state-of-the-art multilin
 
 ![English Translation Results](assets/En_Translation_Results.png)
 
-![English Explanation Results](assets/En_Explanation_Results.png)
+![English Explanation Results](assets/En_Explanation_Reults.png)
 
 ![Arabic Explanation Results](assets/Ar_Explanation_Results.png)
 
