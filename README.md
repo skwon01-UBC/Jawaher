@@ -38,6 +38,9 @@ Recent advancements in instruction fine-tuning, alignment methods such as reinfo
 Jawaher consists of Arabic proverbs paired with their idiomatic or literal English translations, along with explanations in both Arabic and English, covering 20 different Arabic varieties. Below are some examples from the Jawaher benchmark, specifically from Algeria, Bahrain, Egypt, Iraq, and Jordan.
 ![Data Examples](assets/Data_Examples.png)
 
+## Evaluation on Jawaher
+We evaluate Jawaher using both open- and closed-source state-of-the-art multilingual LLMs (mLLMs) to assess their abilities across our proposed tasks. The models are tested in a zero-shot setting.
+
 
 
 ## Citation
