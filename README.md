@@ -27,7 +27,7 @@
 </div>
 
 ## Updates 🚨
-- **[03/01/2025]** We've released the Jawaher dataset on [Huggigface](https://huggingface.co/datasets/UBC-NLP/Jawaher-benchmark)
+- **[03/01/2025]** We've released the Jawaher dataset on [Huggingface](https://huggingface.co/datasets/UBC-NLP/Jawaher-benchmark)
 - **[01/22/2025]** [Jawaher](https://arxiv.org/abs/2503.00231) has been accepted at [NAACL 2025].
 - **[03/03/2025]** [ArXiv paper](https://arxiv.org/abs/2503.00231) released.
 
