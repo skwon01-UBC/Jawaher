@@ -46,7 +46,7 @@ We evaluate Jawaher using both open- and closed-source state-of-the-art multilin
 </div>
 
 <div align="center">
-  <img src="assets/En_Explanation_Results.png" alt="English Explanation Results" width="60%" style="margin: 10px 0;">
+  <img src="assets/En_Explanation_Reults.png" alt="English Explanation Results" width="60%" style="margin: 10px 0;">
 </div>
 
 <div align="center">
